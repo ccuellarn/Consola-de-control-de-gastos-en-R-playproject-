@@ -1,2 +1,3 @@
-# Consola-de-control-de-gastos-en-R-playproject-
-Pequeño proyecto personal para utilizar las herramientas técnicas y específicas de R con el objetivo de crear una consola de gastos mensuales basándose en un presupuesto fijo mensual. 
+# Consola de control de gastos en R
+Este es un pequeño proyecto personal para utilizar las herramientas técnicas y específicas de R, con el objetivo de crear una consola de gastos mensuales basándose en un presupuesto fijo mensual. 
+En dicha consola, se muestra el exceso y montos utilizados por categorías definiendo un presupuesto general. Además, se muestra en una animación la evolución de gastos mensuales por categorías de cada mes. Se puede utilizar un ejemplo demo cargado por default en la consola o un archivo csv que cumpla con las columnas: Fecha (AAAA-MM-DD), descripción (etiqueta individual), categoría (etiqueta general) y monto (numérico, sin formato de dinero). Al inicio de la carga de datos se muestra un resumen sobre los gastos y porcentaje de presupuesto excedido por mes.
