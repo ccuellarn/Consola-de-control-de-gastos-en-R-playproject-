@@ -1,0 +1,297 @@
+fecha,descripcion,categoria,monto
+2026-01-01,Netflix,Suscripciones,16000
+2026-01-01,HBO Max,Suscripciones,30000
+2026-01-01,Spotify,Suscripciones,23000
+2026-01-01,Evento cultural,Cine,21000
+2026-01-01,Consulta médica,Salud,99000
+2026-01-02,SITP,Transporte,14000
+2026-01-03,Carulla,Mercado,78000
+2026-01-04,TransMilenio,Transporte,8000
+2026-01-06,TransMilenio,Transporte,3000
+2026-01-07,InDrive,Transporte,13000
+2026-01-07,DiDi Food,Domicilios,28000
+2026-01-08,SITP,Transporte,11000
+2026-01-08,Pedidos Ya,Domicilios,32000
+2026-01-09,Laboratorio,Salud,142000
+2026-01-10,Éxito,Mercado,66000
+2026-01-10,Café local,Café,7000
+2026-01-12,Café local,Café,4000
+2026-01-14,TransMilenio,Transporte,13000
+2026-01-15,InDrive,Transporte,5000
+2026-01-16,TransMilenio,Transporte,13000
+2026-01-16,Starbucks,Café,8000
+2026-01-16,DiDi Food,Domicilios,25000
+2026-01-17,Carulla,Mercado,68000
+2026-01-17,TransMilenio,Transporte,4000
+2026-01-17,Outlet,Ropa,40000
+2026-01-18,InDrive,Transporte,4000
+2026-01-19,Taxi,Transporte,12000
+2026-01-19,Domicilio local,Domicilios,59000
+2026-01-20,InDrive,Transporte,11000
+2026-01-20,Cinemark,Cine,38000
+2026-01-21,TransMilenio,Transporte,6000
+2026-01-21,Juan Valdez,Café,10000
+2026-01-22,Taxi,Transporte,12000
+2026-01-23,InDrive,Transporte,9000
+2026-01-24,Jumbo,Mercado,76000
+2026-01-24,TransMilenio,Transporte,6000
+2026-01-24,Starbucks,Café,7000
+2026-01-24,iFood,Domicilios,32000
+2026-01-25,Domicilio local,Domicilios,15000
+2026-01-26,InDrive,Transporte,10000
+2026-01-26,Café local,Café,4000
+2026-01-26,Rappi,Domicilios,39000
+2026-01-27,Taxi,Transporte,13000
+2026-01-27,DiDi Food,Domicilios,28000
+2026-01-28,Starbucks,Café,7000
+2026-01-29,SITP,Transporte,4000
+2026-01-30,Taxi,Transporte,3000
+2026-01-31,Éxito,Mercado,72000
+2026-01-31,Café local,Café,5000
+2026-02-01,Netflix,Suscripciones,15000
+2026-02-01,Disney+,Suscripciones,21000
+2026-02-01,Netflix,Suscripciones,49000
+2026-02-01,Uber,Transporte,5000
+2026-02-02,Outlet,Ropa,68000
+2026-02-03,OMA,Café,6000
+2026-02-03,Rappi,Domicilios,50000
+2026-02-04,Uber,Transporte,11000
+2026-02-05,TransMilenio,Transporte,8000
+2026-02-06,TransMilenio,Transporte,4000
+2026-02-06,OMA,Café,8000
+2026-02-06,DiDi Food,Domicilios,52000
+2026-02-06,Arturo Calle,Ropa,35000
+2026-02-07,D1,Mercado,43000
+2026-02-09,SITP,Transporte,14000
+2026-02-10,SITP,Transporte,15000
+2026-02-10,Evento cultural,Cine,27000
+2026-02-11,SITP,Transporte,6000
+2026-02-11,OMA,Café,7000
+2026-02-12,InDrive,Transporte,13000
+2026-02-13,Uber,Transporte,3000
+2026-02-13,Café local,Café,6000
+2026-02-14,Jumbo,Mercado,66000
+2026-02-14,TransMilenio,Transporte,14000
+2026-02-15,Café local,Café,4000
+2026-02-16,Uber,Transporte,11000
+2026-02-16,Café local,Café,6000
+2026-02-18,Uber,Transporte,6000
+2026-02-19,InDrive,Transporte,15000
+2026-02-20,Uber,Transporte,4000
+2026-02-21,Carulla,Mercado,32000
+2026-02-21,InDrive,Transporte,12000
+2026-02-21,Pedidos Ya,Domicilios,55000
+2026-02-22,SITP,Transporte,13000
+2026-02-23,Taxi,Transporte,10000
+2026-02-23,OMA,Café,10000
+2026-02-23,iFood,Domicilios,44000
+2026-02-25,SITP,Transporte,14000
+2026-02-27,Taxi,Transporte,4000
+2026-02-27,OMA,Café,7000
+2026-02-27,Óptica,Salud,124000
+2026-02-28,Jumbo,Mercado,33000
+2026-02-28,InDrive,Transporte,9000
+2026-03-01,Disney+,Suscripciones,45000
+2026-03-01,Netflix,Suscripciones,37000
+2026-03-01,HBO Max,Suscripciones,39000
+2026-03-02,SITP,Transporte,7000
+2026-03-02,DiDi Food,Domicilios,57000
+2026-03-03,SITP,Transporte,12000
+2026-03-04,InDrive,Transporte,5000
+2026-03-04,Café local,Café,6000
+2026-03-04,DiDi Food,Domicilios,36000
+2026-03-05,Juan Valdez,Café,7000
+2026-03-05,Domicilio local,Domicilios,18000
+2026-03-06,H&M,Ropa,60000
+2026-03-07,Éxito,Mercado,60000
+2026-03-07,DiDi Food,Domicilios,38000
+2026-03-08,SITP,Transporte,7000
+2026-03-08,Juan Valdez,Café,6000
+2026-03-09,Taxi,Transporte,14000
+2026-03-10,Evento cultural,Cine,31000
+2026-03-10,Laboratorio,Salud,43000
+2026-03-11,Tostao,Café,9000
+2026-03-12,Uber,Transporte,12000
+2026-03-13,SITP,Transporte,4000
+2026-03-13,Café local,Café,5000
+2026-03-14,Jumbo,Mercado,50000
+2026-03-14,SITP,Transporte,8000
+2026-03-15,SITP,Transporte,4000
+2026-03-15,Café local,Café,7000
+2026-03-16,TransMilenio,Transporte,4000
+2026-03-16,Café local,Café,9000
+2026-03-17,Taxi,Transporte,8000
+2026-03-17,Café local,Café,6000
+2026-03-19,Taxi,Transporte,12000
+2026-03-19,Juan Valdez,Café,10000
+2026-03-19,iFood,Domicilios,38000
+2026-03-19,Dentista,Salud,72000
+2026-03-21,Carulla,Mercado,66000
+2026-03-21,InDrive,Transporte,10000
+2026-03-21,Juan Valdez,Café,6000
+2026-03-22,TransMilenio,Transporte,5000
+2026-03-22,Starbucks,Café,6000
+2026-03-22,iFood,Domicilios,22000
+2026-03-23,Taxi,Transporte,9000
+2026-03-24,Taxi,Transporte,14000
+2026-03-24,OMA,Café,9000
+2026-03-24,Rappi,Domicilios,25000
+2026-03-25,Taxi,Transporte,10000
+2026-03-25,OMA,Café,6000
+2026-03-27,SITP,Transporte,7000
+2026-03-27,iFood,Domicilios,34000
+2026-03-28,Jumbo,Mercado,37000
+2026-03-28,Uber,Transporte,14000
+2026-03-29,Cine Colombia,Cine,38000
+2026-03-29,Arturo Calle,Ropa,103000
+2026-03-30,SITP,Transporte,10000
+2026-04-01,Spotify,Suscripciones,36000
+2026-04-01,Disney+,Suscripciones,46000
+2026-04-01,HBO Max,Suscripciones,40000
+2026-04-02,Taxi,Transporte,3000
+2026-04-04,Jumbo,Mercado,74000
+2026-04-04,TransMilenio,Transporte,13000
+2026-04-05,TransMilenio,Transporte,10000
+2026-04-07,Taxi,Transporte,11000
+2026-04-07,Rappi,Domicilios,32000
+2026-04-08,Juan Valdez,Café,6000
+2026-04-11,Jumbo,Mercado,32000
+2026-04-11,InDrive,Transporte,14000
+2026-04-12,TransMilenio,Transporte,5000
+2026-04-13,InDrive,Transporte,3000
+2026-04-14,Café local,Café,9000
+2026-04-14,DiDi Food,Domicilios,58000
+2026-04-15,Cinemark,Cine,27000
+2026-04-16,Cinemark,Cine,34000
+2026-04-17,Uber,Transporte,15000
+2026-04-17,Tostao,Café,6000
+2026-04-18,Éxito,Mercado,40000
+2026-04-18,Taxi,Transporte,9000
+2026-04-19,Uber,Transporte,13000
+2026-04-19,Café local,Café,6000
+2026-04-20,InDrive,Transporte,14000
+2026-04-20,Tostao,Café,5000
+2026-04-21,Uber,Transporte,14000
+2026-04-21,Café local,Café,6000
+2026-04-21,Rappi,Domicilios,53000
+2026-04-22,Tostao,Café,5000
+2026-04-24,Taxi,Transporte,8000
+2026-04-24,DiDi Food,Domicilios,35000
+2026-04-25,Makro,Mercado,53000
+2026-04-25,Uber,Transporte,5000
+2026-04-25,Café local,Café,10000
+2026-04-26,SITP,Transporte,13000
+2026-04-27,Starbucks,Café,4000
+2026-04-28,iFood,Domicilios,45000
+2026-04-28,Royal Films,Cine,39000
+2026-04-28,Studio F,Ropa,119000
+2026-04-29,InDrive,Transporte,4000
+2026-04-29,Juan Valdez,Café,6000
+2026-04-30,Uber,Transporte,13000
+2026-05-01,Disney+,Suscripciones,21000
+2026-05-01,Disney+,Suscripciones,41000
+2026-05-01,HBO Max,Suscripciones,17000
+2026-05-01,Café local,Café,5000
+2026-05-01,Royal Films,Cine,37000
+2026-05-02,Carulla,Mercado,55000
+2026-05-02,TransMilenio,Transporte,10000
+2026-05-02,OMA,Café,9000
+2026-05-02,Laboratorio,Salud,102000
+2026-05-03,Starbucks,Café,5000
+2026-05-05,Juan Valdez,Café,5000
+2026-05-05,iFood,Domicilios,52000
+2026-05-05,Studio F,Ropa,97000
+2026-05-06,TransMilenio,Transporte,10000
+2026-05-07,Taxi,Transporte,7000
+2026-05-07,Evento cultural,Cine,32000
+2026-05-09,Makro,Mercado,70000
+2026-05-09,Uber,Transporte,9000
+2026-05-11,SITP,Transporte,9000
+2026-05-11,Café local,Café,7000
+2026-05-11,Evento cultural,Cine,30000
+2026-05-12,InDrive,Transporte,4000
+2026-05-12,Juan Valdez,Café,4000
+2026-05-13,Taxi,Transporte,11000
+2026-05-13,Juan Valdez,Café,7000
+2026-05-15,Juan Valdez,Café,6000
+2026-05-16,Jumbo,Mercado,65000
+2026-05-16,Laboratorio,Salud,47000
+2026-05-17,Tostao,Café,6000
+2026-05-17,iFood,Domicilios,51000
+2026-05-17,Farmacia,Salud,63000
+2026-05-18,InDrive,Transporte,10000
+2026-05-18,Tostao,Café,6000
+2026-05-19,SITP,Transporte,15000
+2026-05-20,Uber,Transporte,6000
+2026-05-20,Pedidos Ya,Domicilios,22000
+2026-05-21,Café local,Café,8000
+2026-05-21,iFood,Domicilios,34000
+2026-05-22,TransMilenio,Transporte,3000
+2026-05-23,Makro,Mercado,72000
+2026-05-23,Juan Valdez,Café,7000
+2026-05-23,Rappi,Domicilios,35000
+2026-05-24,TransMilenio,Transporte,9000
+2026-05-24,Tostao,Café,5000
+2026-05-25,TransMilenio,Transporte,6000
+2026-05-25,Royal Films,Cine,30000
+2026-05-26,TransMilenio,Transporte,11000
+2026-05-27,OMA,Café,6000
+2026-05-27,Domicilio local,Domicilios,24000
+2026-05-29,Taxi,Transporte,8000
+2026-05-29,Óptica,Salud,117000
+2026-05-30,Makro,Mercado,33000
+2026-05-30,TransMilenio,Transporte,7000
+2026-05-30,DiDi Food,Domicilios,33000
+2026-05-30,Cinemark,Cine,39000
+2026-05-31,TransMilenio,Transporte,10000
+2026-06-01,Netflix,Suscripciones,43000
+2026-06-01,Netflix,Suscripciones,36000
+2026-06-01,Netflix,Suscripciones,47000
+2026-06-01,TransMilenio,Transporte,6000
+2026-06-02,Laboratorio,Salud,56000
+2026-06-03,InDrive,Transporte,7000
+2026-06-03,Starbucks,Café,10000
+2026-06-03,Rappi,Domicilios,52000
+2026-06-04,Rappi,Domicilios,34000
+2026-06-05,Taxi,Transporte,4000
+2026-06-06,Éxito,Mercado,51000
+2026-06-07,Taxi,Transporte,14000
+2026-06-07,DiDi Food,Domicilios,54000
+2026-06-09,Café local,Café,8000
+2026-06-10,InDrive,Transporte,6000
+2026-06-11,Taxi,Transporte,9000
+2026-06-12,Uber,Transporte,11000
+2026-06-13,Éxito,Mercado,47000
+2026-06-13,Taxi,Transporte,5000
+2026-06-13,iFood,Domicilios,43000
+2026-06-14,Uber,Transporte,6000
+2026-06-14,iFood,Domicilios,16000
+2026-06-15,SITP,Transporte,5000
+2026-06-15,Café local,Café,9000
+2026-06-16,OMA,Café,10000
+2026-06-16,Domicilio local,Domicilios,48000
+2026-06-17,SITP,Transporte,9000
+2026-06-17,Evento cultural,Cine,39000
+2026-06-18,SITP,Transporte,7000
+2026-06-19,Uber,Transporte,4000
+2026-06-19,Studio F,Ropa,35000
+2026-06-20,Ara,Mercado,54000
+2026-06-20,Juan Valdez,Café,6000
+2026-06-21,Royal Films,Cine,40000
+2026-06-22,InDrive,Transporte,13000
+2026-06-22,OMA,Café,4000
+2026-06-22,Consulta médica,Salud,51000
+2026-06-23,Tostao,Café,8000
+2026-06-23,H&M,Ropa,66000
+2026-06-24,TransMilenio,Transporte,13000
+2026-06-24,Juan Valdez,Café,10000
+2026-06-25,SITP,Transporte,10000
+2026-06-26,InDrive,Transporte,12000
+2026-06-26,DiDi Food,Domicilios,35000
+2026-06-26,Royal Films,Cine,29000
+2026-06-27,Jumbo,Mercado,40000
+2026-06-27,Juan Valdez,Café,9000
+2026-06-28,Pedidos Ya,Domicilios,38000
+2026-06-29,Taxi,Transporte,13000
+2026-06-29,Rappi,Domicilios,30000
+2026-06-30,Taxi,Transporte,5000
